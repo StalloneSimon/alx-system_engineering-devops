@@ -1,1 +1,1 @@
-# alx-system_engineering-devops. Let pull up our socks. they dont know me Son!!
+# alx-system_engineering-devops. Let's pull up our socks. They don't know me, Son!!
